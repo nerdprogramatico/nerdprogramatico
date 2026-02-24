@@ -35,6 +35,8 @@ Outside the corporate world, I have an entrepreneurial background: projects that
 
 Core technologies/topics I apply most: Java 6–21+ • Spring Boot/Security (JWT/OAuth2) • REST APIs (OpenAPI/Swagger) • JPA/Hibernate/JdbcTemplate • PostgreSQL + Flyway • Testing (JUnit/Mockito) • Docker/CI/CD • Cloud/containers • Observability (Actuator/Micrometer/structured logs/metrics/tracing) • Kubernetes/OpenShift • DevOps practices and production operations • Front-end fundamentals for full-cycle delivery.
 
+PT-BR: Native • EN: Studying • ES: Studying
+
 ---
 
 ## 🧰 Tech Stack
